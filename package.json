@@ -1,0 +1,11 @@
+{
+  "name": "latihan-1-nodejs",
+  "version": "1.0.0",
+  "description": "belajar latihan dasar node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salsabilla Dwi Oktalia",
+  "license": "ISC"
+}
